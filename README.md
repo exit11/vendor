@@ -1,0 +1,2 @@
+# vendor
+My CDN Vendor
